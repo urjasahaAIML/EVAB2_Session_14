@@ -1,6 +1,6 @@
 
 # EVAB2_Session_14
-The custom data set contains 3578 images of people wearing hard-hat, vest, mask and boots.
+The custom data set contains 3590 images of people wearing hard-hat, vest, mask and boots.
 Image sizes vary.
 Some images contain combination of hard-hat, vest, mask and boots.
 
